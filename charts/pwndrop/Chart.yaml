@@ -1,0 +1,6 @@
+apiVersion: v2
+name: pwndrop
+description: Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.
+type: application
+version: 0.1.0
+appVersion: "1.0.1"
